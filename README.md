@@ -49,6 +49,7 @@ El archivo `SKILL.md` es texto plano en Markdown. Puedes pegarlo como system pro
 La primera vez que uses la skill, el asistente te pedirá tu token de API de Cuéntica.
 
 **Cómo obtenerlo:**
+
 1. Inicia sesión en [app.cuentica.com](https://app.cuentica.com)
 2. Ve a **Configuración → API → Generar token**
 3. Copia el token y díselo al asistente
@@ -61,12 +62,12 @@ El asistente lo guardará en memoria para futuras conversaciones. **No lo compar
 
 Una vez instalada, simplemente pregunta con lenguaje natural:
 
-- *"¿Qué facturas tengo pendientes de cobro?"*
-- *"¿Cuánto he facturado este trimestre?"*
-- *"Muéstrame los gastos de enero"*
-- *"¿Qué borradores tengo para emitir?"*
-- *"Resumen de IVA del primer trimestre"*
-- *"Facturas de KNOM DESIGN este año"*
+- _"¿Qué facturas tengo pendientes de cobro?"_
+- _"¿Cuánto he facturado este trimestre?"_
+- _"Muéstrame los gastos de enero"_
+- _"¿Qué borradores tengo para emitir?"_
+- _"Resumen de IVA del primer trimestre"_
+- _"Facturas de MiCliente S.L este año"_
 
 ---
 
